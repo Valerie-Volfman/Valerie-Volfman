@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# I am a Frontend Developer from Ramat Gan
+
+* :seedling: I'm currently working on my own new project for 10 days sprint
+* :telescope: I'm currently learning TypeScript
+* :speech_balloon: Ask me about MERN stack technologies
+* :email: valerievolfman@gmail.com
+
 <!--
 **Valerie-Volfman/Valerie-Volfman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
