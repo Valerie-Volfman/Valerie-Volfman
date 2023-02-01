@@ -2,7 +2,7 @@
 
 # I am a Frontend Developer from Ramat Gan
 
-* :seedling: I'm currently working on my own new project for 10 days sprint
+* :seedling: I'm currently working on my own new project
 * :telescope: I'm currently learning TypeScript
 * :speech_balloon: Ask me about MERN stack technologies
 * :email: valerievolfman@gmail.com
