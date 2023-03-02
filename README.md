@@ -11,6 +11,12 @@
 * :speech_balloon: Ask me about MERN stack technologies
 * :email: valerievolfman@gmail.com
 
+<div id="badges">
+<a href="https://www.linkedin.com/in/valerie-volfman/"
+<img src="https://img.shields.io/badge/LinkedIn-✿-ff69b4?logo=linkedin&logoColor=ff69b4&style=for-the-badge" alt="LinkedIn Badge" />
+</a>
+</div>
+
 <!--
 **Valerie-Volfman/Valerie-Volfman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,8 +32,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges">
-<a href="https://www.linkedin.com/in/valerie-volfman/"
-<img src="https://img.shields.io/badge/LinkedIn-✿-ff69b4?logo=linkedin&logoColor=ff69b4&style=for-the-badge" alt="LinkedIn Badge" />
-</a>
-</div>
+
