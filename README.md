@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
+<div id="badges">
+<a href="https://www.linkedin.com/in/valerie-volfman/"
+<img src="https://img.shields.io/badge/LinkedIn-✿-ff69b4?logo=linkedin&logoColor=ff69b4&style=for-the-badge" alt="LinkedIn Badge" />
+</a>
+</div>
+
 ### Hi there 👋
 
 # I am a Frontend Developer from Ramat Gan
@@ -10,12 +16,6 @@
 * :telescope: I'm currently learning TypeScript
 * :speech_balloon: Ask me about MERN stack technologies
 * :email: valerievolfman@gmail.com
-
-<div id="badges">
-<a href="https://www.linkedin.com/in/valerie-volfman/"
-<img src="https://img.shields.io/badge/LinkedIn-✿-ff69b4?logo=linkedin&logoColor=ff69b4&style=for-the-badge" alt="LinkedIn Badge" />
-</a>
-</div>
 
 <!--
 **Valerie-Volfman/Valerie-Volfman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
