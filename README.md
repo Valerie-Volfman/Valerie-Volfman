@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="badges">
+<a href="https://www.linkedin.com/in/valerie-volfman/"
+<img src="https://img.shields.io/badge/LinkedIn-✿-ff69b4?logo=linkedin&logoColor=ff69b4&style=for-the-badge" alt="LinkedIn Badge" />
+</a>
+</div>
