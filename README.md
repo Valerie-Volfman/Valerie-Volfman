@@ -9,7 +9,7 @@
 ## I am a Frontend Developer from Ramat Gan
 
 * :seedling: I'm currently working on my own new project
-* :telescope: I'm currently learning TypeScript
+* :telescope: I'm currently learning Java
 * :speech_balloon: Ask me about MERN stack technologies
 * :email: valerievolfman@gmail.com
 
